@@ -20,6 +20,11 @@
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 // SOFTWARE.
 
+#![crate_name = "tree"]
+#![create_type = "rlib"]
+#![license = "MIT"]
+
+
 use std::collections::{HashMap, Map};
 use std::hash::{Hash};
 
